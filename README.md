@@ -1,1 +1,1 @@
-tictactoe game vs the computer using the minimax algorithm
+A basic tictactoe game vs the computer using the minimax algorithm
